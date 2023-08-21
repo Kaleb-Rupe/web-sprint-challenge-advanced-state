@@ -53,9 +53,7 @@ const Quiz = ({
           </button>
         </>
       ) : (
-        <>
-          <div>"Loading next quiz..."</div>
-        </>
+        "Loading next quiz..."
       )}
     </div>
   );
